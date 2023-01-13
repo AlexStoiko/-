@@ -1,0 +1,15 @@
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\bin\Debug\Games.exe.config
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\bin\Debug\Games.exe
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\bin\Debug\Games.pdb
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.csproj.AssemblyReference.cache
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.Main_menu.resources
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.Properties.Resources.resources
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.csproj.GenerateResource.cache
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.exe
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.pdb
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.Brain_test.resources
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.Crosses_Zeros.resources
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.About_Game_Brain_test.resources
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.About_Games.resources
+D:\ПИ-11\3_семестр\Программирование\Курсовой проект\C#\Games\obj\Debug\Games.About_Game_Crosses_Zeros.resources
